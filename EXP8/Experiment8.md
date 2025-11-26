@@ -39,20 +39,20 @@ Name: Subrat Singh   SAP id:590028683
  #### Commands:
  1. `   top    ` - **live view of processes, CPU, memory** <br><br>
   #### OUTPUT:
- ![output2.1](images/8021.png)<br><br>
+ ![output2.1](images/801.png)<br><br>
 
  2. `   htop    ` - **user friendly version of *top***
   #### OUTPUT:
-  ![putput2.2](images/8022.png)<br><br>
+  ![putput2.2](images/802.png)<br><br>
 
  3. `   ps aux    ` - **snapshot of all processes**
   #### OUTPUT:
-  ![putput2.3](images/8023.png)<br><br>
+  ![putput2.3](images/803.png)<br><br>
 
  4. `   free -h  ` - **show memory usage**
  5. `   uptime    ` - **system load averages**
   #### OUTPUT:
-  ![putput2.4](images/802.4.png)<br><br>
+  ![putput2.4](images/804.png)<br><br>
   
 
  ---------------------------------------------------------------------------
@@ -61,24 +61,24 @@ Name: Subrat Singh   SAP id:590028683
 - **Pipes `  |  ` - to pass output of one command to another**
 
  #### OUTPUT:
- ![output3](images/803.1.png)
+ ![output3](images/805.png)
 
 ---------------------------------------------------------------------------
 ## <h1 style="background-color: pink;">Process Synchronization</h1>
  #### To prevent conflicts, processes can be synchronized
   - `   wait  ` - **used to pause the execution of a script until all the background processes complete.** <br><br>
    #### SCRIPT:
-   ![script1](images/8041.png)<br><br>
+   ![script1](images/806.png)<br><br>
    #### OUTPUT:
-   ![output4.1](images/8042.png)<br><br>
+   ![output4.1](images/807.png)<br><br>
    [Click here to view the video of execution of this script](https://drive.google.com/file/d/1LOsI58G-r8eLXDoungNDWrgqMH2JQtpB/view?usp=sharing)<br><br>
 
   - ` wait <PID> ` - **waits for a particular job to finish**<br><br>
    #### SCRIPT:
-   ![script2](images/8043.png)<br><br>
+   ![script2](images/808.png)<br><br>
 
    #### OUTPUT:
-   ![output4.2](images/8044.png)<br><br>
+   ![output4.2](images/809.png)<br><br>
    [Click here to view the video of execution of this script](https://drive.google.com/file/d/16UXcwnN6zB618G496qq2eE8MwZdvArRB/view?usp=sharing)<br><br>
 
 ---------------------------------------------------------------------------
@@ -90,30 +90,30 @@ Name: Subrat Singh   SAP id:590028683
  4. `   bg %1   ` - **resume job 1 in background**
 
  #### OUTPUT:
- ![output5](images/805.1.png)
+ ![output5](images/810.png)
 
 ---------------------------------------------------------------------------
 ## <h1 style="background-color: pink;">System Monitoring and logging</h1>
 
  1. `  dmesg | less  ` - **kernel/ system messages**
    #### OUTPUT:
-   ![output6.1](images/8061.png)<br><br>
-   ![output6.2](images/8062.png)<br><br>
+   ![output6.1](images/811.png)<br><br>
+   ![output6.2](images/812.png)<br><br>
 
 
  2. `  journalctl  ` - **systemlogs**
    #### OUTPUT:
-   ![output6.3](images/8063.png)<br><br>
+   ![output6.3](images/813.png)<br><br>
  
  
  3. `  last  ` - **logged-in users**
    #### OUTPUT:
-   ![output6.4](images/8064.png)<br><br>
+   ![output6.4](images/814.png)<br><br>
  
  
  4. `  who  `  or  `  w  ` - **user currently logged-in**
   #### OUTPUT:
-  ![output6.5](images/8065.png)
+  ![output6.5](images/815.png)
 
 
 ---------------------------------------------------------------------------
@@ -122,34 +122,34 @@ Name: Subrat Singh   SAP id:590028683
 **Write a script that checks the file permissions of a given file and displays whether it is readable, writable, or executable by the current user.**<br><br> 
 
    #### Script:
-   ![script3](images/807.png)<br><br>
+   ![script3](images/816.png)<br><br>
   
    #### Output:
-   ![output7](images/808.png)<br><br>
+   ![output7](images/817.png)<br><br>
 
 ### <h1 style="background-color: lightgreen;">TASK 2: String Operations</h1>
 **Create a script that prompts the user to enter a string and then performs operations like string length, string concatenation, and string comparison.**<br><br>
    #### Script:
-   ![script4](images/809.png)<br><br>
+   ![script4](images/818.png)<br><br>
   
    #### Output:
-   ![output8](images/810.png)<br><br>
+   ![output8](images/819.png)<br><br>
 
 ### <h1 style="background-color: lightgreen;">TASK 3: Search for a Pattern in a file</h1>
 **Write a script that searches for a specific pattern in a given file and displays the matching lines.**<br><br>
    #### Script:
-   ![script5](images/811.png)<br><br>
+   ![script5](images/820.png)<br><br>
   
    #### Output:
-   ![output9](images/812.png)<br><br>
+   ![output9](images/821.png)<br><br>
 
 ### <h1 style="background-color: lightgreen;">TASK 4: Display System Information</h1>
 **Create a script that displays various system information like the current date and time, logged-in users, system uptime, etc.**<br><br>
    #### Script:
-   ![script6](images/813.png)<br><br>
+   ![script6](images/822.png)<br><br>
   
    #### Output:
-   ![output10](images/814.png)<br><br>
+   ![output10](images/823.png)<br><br>
 
 ---------------------------------------------------------------------------
 ## <h1 style="background-color: pink;">OBSERVATIONS</h1>
@@ -175,3 +175,4 @@ Name: Subrat Singh   SAP id:590028683
 
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
+
