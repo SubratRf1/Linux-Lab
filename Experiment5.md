@@ -4,7 +4,7 @@ Name: Subrat Singh   SAP id:590028683
 
 ---------------------------------------------------------------------------
 ##  Aim
-   **To learn the Conditional statements, Loops and decision making in Shell scripting.**
+   **To learn the Conditional statements, Loops and decision making in Shell scripting.** 
 
 ---------------------------------------------------------------------------
 ## Tools & Software Used 
