@@ -24,7 +24,7 @@ Then it logs:
 - Disk usage summary
 
 ```
-LOG_DIR=/home/nonghshim/Documents/dailylogs
+LOG_DIR=/home/vivekchauhan12/Documents/dailylogs
 mkdir -p "$LOG_DIR"
 LOGFILE="$LOG_DIR/log_$(date +%Y-%m-%d).txt"
 ```
@@ -52,7 +52,7 @@ echo "Daily log saved: $LOGFILE"
 #### <h1 style="background-color: pink;">STEP 3: Weekly Archiving</h1>
 ###### **Main idea: Every Monday, it automatically compresses the logs from the past week into a .tar.gz archive inside an archive folder**
 
-```ARCHIVE_DIR=/home/nongshim/Documents/dailylogs/archive
+```ARCHIVE_DIR=/home/vivekchauhan12/Documents/dailylogs/archive
 mkdir -p "$ARCHIVE_DIR"
 
 DAY_OF_WEEK=$(date +%u)  # 1 = Monday
@@ -197,5 +197,7 @@ esac
 
 ------------------------------------------------------------------
 ------------------------------------------------------------------
+
+
 
 
