@@ -1,4 +1,4 @@
-\# <h1 style="background-color: orange;"> EXPERIMENT 5 - Shell Programming</h1>
+# <h1 style="background-color: orange;"> EXPERIMENT 5 - Shell Programming</h1>
 
 ---------------------------------------------------------------------------
 
@@ -8,27 +8,27 @@ Name: Vivek Chauhan   SAP id:590029184    Date:19/09/2025
 
 ---------------------------------------------------------------------------
 
-\##  Aim
+##  Aim
 
-&nbsp;  \*\*To learn the Conditional statements, Loops and decision making in Shell scripting.\*\*
-
-
-
----------------------------------------------------------------------------
-
-\## Tools \& Software Used 
-
-\- \*\*Operating System:\*\* Ubuntu running on Oracle VirtualBox  
-
-\- \*\*Terminal Emulator:\*\* GNOME Terminal 
-
-\- \*\*Shell:\*\* Bash (\*Bourne-Again Shell\*)
+&nbsp;  To learn the Conditional statements, Loops and decision making in Shell scripting.
 
 
 
 ---------------------------------------------------------------------------
 
-\## <h1 style="background-color: pink;">TASK 1: Prime Number Check</h1>
+## Tools & Software Used 
+
+- Operating System: Ubuntu running on Oracle VirtualBox  
+
+- Terminal Emulator: GNOME Terminal 
+
+- Shell: Bash (Bourne-Again Shell)
+
+
+
+---------------------------------------------------------------------------
+
+## <h1 style="background-color: pink;">TASK 1: Prime Number Check</h1>
 
 &nbsp;#### Write a script that takes a number as input and checks whether it is a prime number or not.<br><br>
 
@@ -36,21 +36,21 @@ Name: Vivek Chauhan   SAP id:590029184    Date:19/09/2025
 
 
 
-&nbsp; ### Script:
+&nbsp;  Script:
 
-&nbsp;  !\[script1](images/501.png)<br><br>
+&nbsp;  ![script1](images/501.png)<br><br>
 
 
 
-&nbsp; ### Output:
+&nbsp;  Output:
 
-&nbsp;  !\[output](images/502.png)<br><br>
+&nbsp;  ![output](images/502.png)<br><br>
 
 
 
 ---------------------------------------------------------------------------
 
-\## <h1 style="background-color: pink;">TASK 2: Sum of Digits</h1>
+## <h1 style="background-color: pink;">TASK 2: Sum of Digits</h1>
 
 &nbsp; #### Write a script that calculates the sum of the digits of a given number. <br><br>
 
@@ -58,37 +58,37 @@ Name: Vivek Chauhan   SAP id:590029184    Date:19/09/2025
 
 
 
-&nbsp; ### Script:
+&nbsp;  Script:
 
-&nbsp;  !\[script2](images/503.png)<br><br>
+&nbsp;  ![script2](images/503.png)<br><br>
 
 
 
-&nbsp; ### Output:
+&nbsp;  Output:
 
-&nbsp;  !\[output](images/504.png)<br><br>
+&nbsp;  ![output](images/504.png)<br><br>
 
 
 
 ---------------------------------------------------------------------------
 
-\## <h1 style="background-color: pink;">TASK 3: Armstrong Number</h1>
+## <h1 style="background-color: pink;">TASK 3: Armstrong Number</h1>
 
-&nbsp; #### Create a script that checks whether a given number is an Armstrong numberor not.<br><br>
-
-
+&nbsp;  Create a script that checks whether a given number is an Armstrong numberor not.<br><br>
 
 
 
-&nbsp; ### Script:
-
-&nbsp;  !\[script3](images/505.png)<br><br>
 
 
+&nbsp;  Script:
 
-&nbsp; ### Output:
+&nbsp;  ![script3](images/505.png)<br><br>
 
-&nbsp;  !\[output](images/506.png)<br><br>
+
+
+&nbsp;  Output:
+
+&nbsp;  ![output](images/506.png)<br><br>
 
 
 
@@ -122,7 +122,7 @@ Name: Vivek Chauhan   SAP id:590029184    Date:19/09/2025
 
 ---------------------------------------------------------------------------
 
-\## <h1 style="background-color: pink;"> CONCLUSION</h1> 
+## <h1 style="background-color: pink;"> CONCLUSION</h1> 
 
 
 
@@ -139,4 +139,5 @@ Name: Vivek Chauhan   SAP id:590029184    Date:19/09/2025
 
 
 ---------------------------------------------------------------------------
+
 
