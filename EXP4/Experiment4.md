@@ -1,8 +1,8 @@
-\# <h1 style="background-color: orange;"> EXPERIMENT 4 - Shell Programming</h1>
+# <h1 style="background-color: orange;"> EXPERIMENT 4 - Shell Programming</h1>
 
 ---------------------------------------------------------------------------
 
-Name: Vivek Chauhan   SAP id:590029184    Date:15/09/2025
+Name: Subrat Singh   SAP id:590028683
 
 
 
@@ -139,5 +139,6 @@ Create a script that asks the user to enter their age and displays a message bas
 
 
 ---------------------------------------------------------------------------
+
 
 
