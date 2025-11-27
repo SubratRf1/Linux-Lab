@@ -52,7 +52,7 @@ echo "Daily log saved: $LOGFILE"
 #### <h1 style="background-color: pink;">STEP 3: Weekly Archiving</h1>
 ###### **Main idea: Every Monday, it automatically compresses the logs from the past week into a .tar.gz archive inside an archive folder**
 
-```ARCHIVE_DIR=/home/vivekchauhan12/Documents/dailylogs/archive
+```ARCHIVE_DIR=/home/nongshim/Documents/dailylogs/archive
 mkdir -p "$ARCHIVE_DIR"
 
 DAY_OF_WEEK=$(date +%u)  # 1 = Monday
@@ -167,15 +167,12 @@ esac
 
 - The script **` daily_logs.sh `** is scheduled to run automatically every day at **` 23:22 `** using the command **` crontab -e `**.
 
- ![crontab-e](Screenshots/crontab-e.png)<br><br>
-
 - Cron reads the schedule and executes the script at the specified time without any manual intervention.
 
 - The full path **` /home/vivekchauhan12/Downloads/daily_logs.sh `** is used to ensure cron can locate the script.
 
 - Using **` crontab -l `** we can seet to ensure that the job is scheduled rightly at our specified time.
- ![crontab-l](Screenshots/crontab-l.png)<br><br>
-
+  
 - This automation ensures that daily logs are created, old logs are archived, and the system monitoring process runs consistently without the user having to run the script manually.
 
 
