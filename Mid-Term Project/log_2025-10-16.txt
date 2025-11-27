@@ -8,7 +8,7 @@ Top 5 CPU processes:
    6342 ps               0.1  250
    2159 gnome-shell     13.0  2.1
    6271 gjs              1.9  1.1
-   1283 VBoxDRMClient    0.0  0.1
+   1283 VBoxDRMClient    0.0  0.1 
 Disk usage:
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           323M  1.6M  321M   1% /run
