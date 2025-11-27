@@ -2,10 +2,12 @@
 
 This repository is constituent of all my Linux lab experiments and assignments for learning and practicing Linux concepts.
 
-Name: Subrat Singh
-Course: Btech. Cse
-Batch: B77
-Sap ID: 590028683
+
+
+**Name:** Subrat Singh  
+**SAP ID:** 590028683  
+**Course:** B.Tech CSE
+**Batch:** B77
 
 # Links to all expermiments 
 
