@@ -18,4 +18,4 @@ tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 Downloads       476G  419G   58G  88% /media/sf_Downloads
 shared          476G  419G   58G  88% /media/sf_shared
 tmpfs           323M  124K  323M   1% /run/user/1000
-/dev/sr0         51M   51M     0 100% /media/nongshim/VBox_GAs_7.2.02
+/dev/sr0         51M   51M     0 100% /media/nongshim/VBox_GAs_7.2.02 
