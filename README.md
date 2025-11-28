@@ -11,37 +11,31 @@ This repository is constituent of all my Linux lab experiments and assignments f
 
 # Links to all expermiments 
 
-EXPERIMENT 1: Installation of VirtualBox EXPERIMENT1
+EXPERIMENT 1: Installation of VirtualBox https://github.com/SubratRf1/Linux-Lab/tree/main/EXP1
 
 
-EXPERIMENT 2: Linux File Systems, Permissions and Commands EXPERIMENT2   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 2: Linux File Systems, Permissions and Commands https://github.com/SubratRf1/Linux-Lab/tree/main/EXP2
 
 
-EXPERIMENT 3: Advanced File and Directory Operations EXPERIMENT3   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 3: Advanced File and Directory Operations https://github.com/SubratRf1/Linux-Lab/blob/main/Experiment3.md
 
 
-EXPERIMENT 4: Shell Programming EXPERIMENT4   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 4: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP4
 
 
-EXPERIMENT 5: Shell Programming EXPERIMENT5   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 5: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP5
 
 
-EXPERIMENT 6: Shell Programming EXPERIMENT6   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 6: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP6
 
 
-EXPERIMENT 7: Shell Programming EXPERIMENT7   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
-
-# Links to the assignments
-
-ASSIGNMENT 1 ASSIGNMENT1   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 7: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP7
 
 
-ASSIGNMENT 2 ASSIGNMENT2   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 8: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP8
 
 
-ASSIGNMENT 3 ASSIGNMENT3   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
+EXPERIMENT 9: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/Exp9
 
 
-
-EXPERIMENT 8: Shell Programming EXPERIMENT8   RAW-SCRIPT-LOG   CLEAN-SCRIPT-LOG
-
+EXPERIMENT 10: Shell Programming https://github.com/SubratRf1/Linux-Lab/tree/main/EXP10
