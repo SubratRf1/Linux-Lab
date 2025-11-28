@@ -1,10 +1,6 @@
 # Experiment 9: Shell Programming
-**Name:** Aadya Dubey  
-**Roll No.:** 590029213  
-**Date**:01/10/2025
-***
-# Aim: 
-
+**Name:** Subrat Singh
+**Roll No.:** 590028683
 
 # Requirements:
 * Operating System: Ubuntu running on Oracle VirtualBox
@@ -14,25 +10,25 @@
 # Theory
 ## 1. System Performance Monitoring
 * `top` → live CPU & memory usage per process.
-![](./images/top.png)
+![](./images/901.png)
 * `htop` → improved version of `top` (if installed).
-![](./images/htop.png)
+![](./images/902.png)
 * `free -h` → memory usage in human-readable form.
-![](./images/free.png)
+![](./images/903.png)
 * `df -h` → disk space usage.
-![](./images/df.png)
+![](./images/904.png)
 * `iostat` → input/output statistics (may need `sysstat` package).
-![](./images/iostat.png)
+![](./images/905.png)
 * `uptime` → system load averages (1, 5, 15 minutes).
-![](./images/uptime.png)
+![](./images/906.png)
 
 ## 2. System Security and User Management
 * `whoami` → current user.
-![](./images/whoami.png)
+![](./images/907.png)
 * `id` → user & group info.
-![](./images/id.png)
+![](./images/908.png)
 * `groups` → display user’s groups.
-![](./images/groups.png)
+![](./images/909.png)
 
 # Lab
 ## i. Rename All Files in a Directory
@@ -54,7 +50,7 @@ echo "Files renamed successfully."
 ```
 
 Output:
-![](./images/lab1.png)
+![](./images/910.png)
 
 ## ii. Search Files by Extension or Size
 ```bash
@@ -70,7 +66,7 @@ find "$dir" -type f -name "*$ext" -size +"${size}k"
 ```
 
 Output:
-![](./images/lab2.png)
+![](./images/911.png)
 
 ## iii. Fibonacci Series
 ```bash
@@ -92,7 +88,7 @@ echo
 ```
 
 Output:
-![](./images/lab3.png)
+![](./images/912.png)
 
 ***
 
