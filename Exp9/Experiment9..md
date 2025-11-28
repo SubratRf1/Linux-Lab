@@ -1,7 +1,6 @@
 # Experiment 9: Shell Programming – System Tasks
-### Name: Tanmay Amit Verma
-### Roll No.: 590029302
-### Date: 2025-10-19
+### Name: Subrat Singh
+### Roll No.: 590028683
 ---
 # Aim
 To write and execute shell scripts for file handling, monitoring CPU usage, and user management in a
