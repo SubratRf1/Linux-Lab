@@ -31,7 +31,7 @@ echo "Length: ${#str}"
 ### Output
 
 <p align="center">
-<img src="img\1001.png" width="900">
+<img src="./images/1001.png" width="900">
 </p>
 
 
@@ -67,7 +67,7 @@ echo "Reversed: $rev"
 ### Output
 
 <p align="center">
-<img src="img\1002.png" width="900">
+<img src="./images/1002.png" width="900">
 </p>
 
 
@@ -98,7 +98,7 @@ echo "Concatenated: $s1$s2"
 ### Output
 
 <p align="center">
-<img src="img\1003.png" width="900">
+<img src="./images/1003.png" width="900">
 </p>
 
 ---
